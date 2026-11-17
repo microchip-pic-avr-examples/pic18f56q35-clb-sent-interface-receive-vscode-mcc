@@ -1,0 +1,14 @@
+{
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "mplab-core-da"
+    ],
+    "cmake.sourceDirectory": "C:/Work/pic18f56q35-clb-sent-interface-receive-vscode-mcc/pic18f56q35-clb-sent-interface-receive-vscode-mcc/cmake/pic18f56q35-clb-sent-interface-receive-vscode-mcc/free",
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}/_build/pic18f56q35-clb-sent-interface-receive-vscode-mcc/free",
+    "mplab.clangd.arguments": [
+        "--header-insertion=never"
+    ],
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-clangd.exe"
+}
